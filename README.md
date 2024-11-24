@@ -79,6 +79,6 @@ This project demonstrates the effectiveness of K-Means clustering for customer s
 
 1. Clone the repository to your local machine.
 2. Install the required libraries using `pip install -r requirements.txt`.
-3. Open and run the `customer_segmentation.ipynb` notebook using Goole Colab,Jupyter Notebook or JupyterLab .
+3. Open and run the `customer_segmentation.ipynb` notebook using Google Colab,Jupyter Notebook or JupyterLab .
 
 
